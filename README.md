@@ -1,4 +1,4 @@
-###Тестовый проект на *React* на базе уроков Владилена Минина.###
+### Тестовый проект на *React* на базе уроков Владилена Минина.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
